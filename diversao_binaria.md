@@ -25,7 +25,14 @@ Imprima uma linha com **N** números (`0` ou `1`) separados por espaço, onde:
 
 ```js
 8
-a b c d 1 9 4 3
+a
+b
+c
+d
+1
+9
+4
+3
 ```
 
 
@@ -42,7 +49,11 @@ a b c d 1 9 4 3
 
 ```js
 5
-A z 0 b 7
+A
+z
+0
+b
+7
 ```
 
 
